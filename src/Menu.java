@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 
-
 public class Menu extends Accounts{
 
 	public void getlogin() throws UnsupportedAudioFileException, LineUnavailableException, IOException{
